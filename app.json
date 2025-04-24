@@ -19,10 +19,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/to-do-list.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.ayala_y.ToDoApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e06b1d1e-a5cf-4d65-90c2-29e852352a6f"
+      }
     }
   }
 }
